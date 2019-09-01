@@ -14,19 +14,23 @@ NumberOPpages = 826, Price = 59.99$, могут быть следующие ва
 - ISBN 13: 978-0-7356-6745-7, Jeffrey Richter, CLR via C#, &quot;Microsoft Press&quot;,
 2012, P. 826., 59.99$.
 и т.д.
+
 [NET.A.2019.Usenko.08/BookStorage/Models](https://github.com/StanislavaUsenko/NET.A.2019.Usenko.08/tree/master/BookStorage/Models)
 
 2. Не изменяя класс Book, добавить для объектов данного класса дополнительную
 возможность форматирования, изначально не предусмотренную классом.
+
 [NET.A.2019.Usenko.08/BookStorage/Models](https://github.com/StanislavaUsenko/NET.A.2019.Usenko.08/tree/master/BookStorage/Models)
 
 3. Для реализованных в пп. 1, 2 функциональностей разработать модульные тесты.
+
 [NET.A.2019.Usenko.08/BookStorage.Tests/Models](https://github.com/StanislavaUsenko/NET.A.2019.Usenko.08/tree/master/BookStorage.Tests/Models)
 
 4. Выполнить рефакторинг класса (с целью сокращения повторного кода) в алгоритмах
 Евклида (для рефакторинга использовать делегаты, рефакторинг возможен только в
 случае, когда все метод находятся в одном классе!). Интерфейс класса измениться не
 должен.
+
 [NET.A.2019.Usenko.04/GCD](https://github.com/StanislavaUsenko/NET.A.2019.Usenko.04/tree/master/GCD)
 
 5. В класс с алгоритмом сортировки не прямоугольной матрицы, принимающим как
@@ -36,6 +40,7 @@ NumberOPpages = 826, Price = 59.99$, могут быть следующие ва
 используя прежние критерии сравнения. Класс реализовать двумя способами,
 «замкнув» в первом варианте реализацию метода сортировки с делегатом на метод с
 интерфейсом, во втором – наоборот.
+
 [NET.A.2019.Usenko.04/GCD](https://github.com/StanislavaUsenko/NET.A.2019.Usenko.10)
 
  
